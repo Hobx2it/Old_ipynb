@@ -1,0 +1,1 @@
+C:\Users\AmanovRA\Anaconda3\pkgs\conda-4.8.2-py37_0\info\test\tests\conda_env\support
